@@ -1,0 +1,2 @@
+2023-09-14 13:18:50,085 - ERROR: Error establishing a database connection: ('08001', '[08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]SQL Server does not exist or access denied. (17) (SQLDriverConnect); [08001] [Microsoft][ODBC SQL Server Driver][DBNETLIB]ConnectionOpen (Connect()). (53); [08001] [Microsoft][ODBC SQL Server Driver]Invalid connection string attribute (0)')
+2023-09-14 13:18:50,085 - ERROR: An error occurred in the main process: cannot access local variable 'filtered_df' where it is not associated with a value
